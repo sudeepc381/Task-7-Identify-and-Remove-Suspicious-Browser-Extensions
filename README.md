@@ -1,7 +1,4 @@
-# Task-7-Identify-and-Remove-Suspicious-Browser-Extensions
-
-
-🛡️ Task 7 – Identify and Remove Suspicious Browser Extensions
+Task 7 – Identify and Remove Suspicious Browser Extensions
 
 ## 📌 Objective
 The goal of this task was to learn how to spot and remove potentially harmful browser extensions, improving browser security and performance.
@@ -58,10 +55,6 @@ The goal of this task was to learn how to spot and remove potentially harmful br
   - Inject ads or redirect traffic
 - Always review permissions before installing an extension.
 - Remove extensions you do not use or trust.
-
----
-## 📷 Screenshots
-<img width="1366" height="766" alt="image" src="https://github.com/user-attachments/assets/a34adf6a-1699-4256-aed2-e829fa015f41" />
 
 ---
 
